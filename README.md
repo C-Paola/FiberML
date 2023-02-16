@@ -20,7 +20,7 @@ Make sure you have MATLAB installed:
 - [MATLAB](https://www.mathworks.com/help/matlab/)
 
 # Running the code
-To run the software type open the folder in App Designer using MATLAB, and run the following file: ``` ventana_main.mlapp ```.
+To run the software open the folder in App Designer using MATLAB, and run the following file: ``` ventana_main.mlapp ```.
 
 Note: You must add the images folder to the path in MATLAB.
 
