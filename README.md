@@ -1,5 +1,7 @@
 # **FiberML**
 
+<img src="https://user-images.githubusercontent.com/62435399/219249550-d6128699-63bf-42c3-b54a-f8325e8394be.png" width="250">
+
 ![GitHub stars](https://img.shields.io/github/stars/C-Paola/FiberML?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/C-Paola/FiberML?label=Fork&style=social)
 
@@ -23,3 +25,11 @@ To run the software type open the folder in App Designer using MATLAB, and run t
 Note: You must add the images folder to the path in MATLAB.
 
 # Images of the software
+
+![image](https://user-images.githubusercontent.com/62435399/219249479-0767550d-2fb1-4030-b953-ebec155aca3c.png)
+![image](https://user-images.githubusercontent.com/62435399/219250152-0408a25d-eb4f-452d-9880-8f4545b68a93.png)
+![image](https://user-images.githubusercontent.com/62435399/219250410-69858d59-7f90-4c1f-b75c-81f079fcb92c.png)
+
+# Authors
+- [Paola Castro](https://github.com/C-Paola)
+- [Sebastian Rojas](https://github.com/SRojas28)
